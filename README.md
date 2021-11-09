@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VoxGH
 - 👀 I’m interested in SPACE
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning advanced HTML, Haskell
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me Vox#3425
 
